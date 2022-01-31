@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "native-stack-swipeable-bug",
+    "slug": "native-stack-swipeable-bug",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "native-stack-swipeable-bug"
+}
